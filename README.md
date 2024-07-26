@@ -16,3 +16,14 @@ CI/CD
     <ol></ol>
 
 </ul>
+
+<h3>Azure DevOps Feature </h3>
+<p></p>you can use one or more of the following feature based on your business needs</p>
+<p>1.>Azure Board: delivers a suite of angle tool to support planning and tracking work,code defect,and issues using kanban and scrum methods.</p>
+<p>2.Azure Repo: provides Git repository or Team foundation version control(TFVC) for source control of your code.</p>
+<p>3.Azure Piplines :provides build and release services to support continuous Integration and delivery  of your apps.</p>
+<p>4.Azure Test Plans:provides several tool to test your apps,including manual/exploratory testing and continuous testing.</p>
+<p>5.Azure Artifacts: allows teams to share maven,npm,Nuget packages from public and private sources and integrate package sharing into your CI/CD piplines</p>
+
+
+
