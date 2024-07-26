@@ -28,6 +28,8 @@ CI/CD
              alt="Azure DevOps Image" 
              style="width:300px;height:auto;">
 
-<!-- [End of the link and image example](https://subhankarsarkar.com/azure-devops-manage-your-application-lifecycle-in-cloud/) -->
+<!-- [End of the link and image example](https://subhankarsarkar.com/azure-devops-manage-your-application-lifecycle-in-cloud/)
+https://www.youtube.com/watch?v=I9qyHrcOK24
+-->
 
 
