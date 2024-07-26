@@ -24,6 +24,9 @@ CI/CD
 <p>3.Azure Piplines :provides build and release services to support continuous Integration and delivery  of your apps.</p>
 <p>4.Azure Test Plans:provides several tool to test your apps,including manual/exploratory testing and continuous testing.</p>
 <p>5.Azure Artifacts: allows teams to share maven,npm,Nuget packages from public and private sources and integrate package sharing into your CI/CD piplines</p>
+  <img src="https://subhankarsarkar.com/wp-content/uploads/2018/09/Azure-DevOps-SubhankarSarkar.png" 
+             alt="Azure DevOps Image" 
+             style="width:300px;height:auto;">
 
 
 
